@@ -1,0 +1,10 @@
+Map:
+couloir_25_26.png
+Linked rooms:
+sm25.png 0x0-200x720
+sm26.png 1080x0-1280x720
+Collision map:
+000000
+000000
+000000
+000000

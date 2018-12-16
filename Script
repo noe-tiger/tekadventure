@@ -1,0 +1,118 @@
+Script du nouveau jeu sensationel de "Nom studio"
+
+But : trouver Joffrey en salle des APE
+
+Acteurs :     -Leo Piercy dans le rôle du héros
+	      -Samuel Rousseaux dans le rôle de PNJ1
+	      -Alexandre Tahery dans le rôle de PNJ2
+	      -Noé Tiger dans le rôle de PNJ3
+	      -Victor Chau dans le rôle de PNJ4
+
+
+Objets :      -Kinder (pour faire apparaître Joffrey)
+       	      -Clé de la salle des APE
+	      -Café (à donner à PNJ contre objet)
+	      -Feutre
+
+
+Objets interactifs :   -Switch
+       		       -PC
+		       -Fenetre ?
+		       -Tableau blanc
+
+
+Actions :	       -Aller
+	      	       -Parler
+	      	       -Frapper
+	      	       -Insulter
+	      	       -Prendre/Ouvrir
+		       -Utiliser
+		       -Combiner
+		       
+
+Map :	      -SM25
+	      -SM26
+	      -Couloir entre SM25 et SM26
+	      -SM24
+	      -Couloir toilettes
+	      -Toilettes
+	      -Cage escalier (toilettes et 25-26)
+	      -SMSerdaigle
+	      -Bureau APE
+	      -Couloir APE
+
+
+Script :      But: Leo veut savoir si il ira en keynote
+
+       	      Fin alternatives : soit Kinder et keynote, sinon fin
+
+
+
+	      Léo se réveille à cause de Samuel.
+	      
+	      Léo se dit je vais demander à Joffrey pour la keynote.
+
+	      Léo trouve canette Redbull dans poubelle (26)
+
+	      Léo donne canette à Alexandre contre argent pour café
+
+	      Noé bloque le passage, Léo l'insulte pour passer
+
+	      Victor donne Kinder contre café
+
+	      Léo donne Kinder à Joffrey, ok keynote.
+	      
+
+
+Story board :
+      -intro:
+
+		-Léo dors et rêve
+
+		-Voix echo sam : "Léo. Léo réveille-toi. Léo."
+
+		-Réalité
+
+		Voix sam normale : "Léo remus-toi un peu sale feignasse"
+
+		-Léo : "Hein? Quoi?"
+
+		-Sam : "Tu as peut être autre chose à faire que de dormir, non?"
+
+		Léo : "Effectivement"
+
+		-Samuel part.
+
+		-Léo voix-off : "Bon, il faut que je trouve Joffrey pour savoir si j'irai en keynote." 
+		
+		-"Il doit être en bureau des APE."
+
+		Fin
+
+
+	-Fin 1:
+
+		-Léo toque à la porte des APE *toc toc*
+
+		Joffrey : "Entrez !"
+
+		-Léo : "Je peux aller un keynote?"
+
+		Joffrey : "Non."
+
+		Fin - générique avec sad violin
+
+
+	-True ending :
+
+		-Léo toque à la porte des APE *toc toc*
+
+		Joffrey : "Entrez !"
+
+		-Léo pose un kinder sur la table
+
+		-Léo : "Je peux aller en keynote?"
+
+		-Joffrey : "Y'a moyen" *souris*
+
+		Fin - générique avec Back to black - ACDC
